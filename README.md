@@ -5,3 +5,10 @@ In this project I used the TMDb API to get a list of movies in JSON format, I th
 
 # What I learned
 I was familiar with APIs, but I have never actually created a project calling an API. So I got to learn how to interact with the API and the value with an API key. I also used a dictionary twice within this project in order to make sure the proper genre is selected and then to sort those top movies in descending order based on their voter rating. 
+
+# How to Run
+It is pretty simple to run.
+
+```python movieSorter.py```
+
+After that you will be presented with a menu of the genres from where you will select the genre, then you will have the choice to select the number of movies you want displayed.
