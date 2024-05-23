@@ -13,8 +13,8 @@ It is pretty simple to run.
 
 After that you will be presented with a menu of the genres from where you will select the genre, then you will have the choice to select the number of movies you want displayed.
 
-#Helpful links
-[https://adinasteinman.medium.com/navigating-my-first-api-the-tmdb-database-d8d2975b0df4]
-[https://www.themoviedb.org/talk/5daf6eb0ae36680011d7e6ee]
-[https://developer.themoviedb.org/reference/discover-movie]
-[https://developer.themoviedb.org/docs/getting-started]
+# Helpful links
+- [https://adinasteinman.medium.com/navigating-my-first-api-the-tmdb-database-d8d2975b0df4]
+- [https://www.themoviedb.org/talk/5daf6eb0ae36680011d7e6ee]
+- [https://developer.themoviedb.org/reference/discover-movie]
+- [https://developer.themoviedb.org/docs/getting-started]
